@@ -3,16 +3,16 @@
 
 Smart Architecture is your ultimate companion for interior designing, bringing innovation and convenience to the process of renovating and designing living spaces. Developed with Flutter and Firebase, Smart Architecture offers a comprehensive platform for users to connect with local architects, visualize room renovations in 3D, experiment with furniture in augmented reality, and much more.
 
+## Team Details
+
+The Smart Architecture project was developed by the team TechTitans, consisting of Vitesh, Sharika, Bharath, and Santosh.
+
 ## Features
 
 - **Rennovate:** Scan your room and generate a 3D model for renovation ideas.
 - **Augmented Reality:** Try out furniture and decor in your room using AR technology.
 - **Chat Bot Integration:** Interact with a chat bot powered by an LLM to get personalized design suggestions.
 - **Premium Subscription:** Choose from different subscription plans for access to premium features and exclusive content.
-
-## Team Details
-
-The Smart Architecture project was developed by the team TechTitans, consisting of Vitesh, Sharika, Bharath, and Santosh.
 
 ## Acknowledgments
 
