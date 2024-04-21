@@ -1,16 +1,28 @@
-# ar_room_decor
-AR Room Decor is a software project that leverages the Flutter SDK and Firebase as the backend to provide users with an immersive and interactive augmented reality experience for room decoration. 
+# Smart Architecture - Your Interior Designing Companion
 
-The primary goal of AR Room Decor is to revolutionize the way users visualize and design their living spaces by incorporating augmented reality technology into the room decoration process. The application offers seamless compatibility with both Android and iOS platforms, allowing a wide range of users to access and benefit from its functionalities.
-Using the Flutter SDK, AR Room Decor delivers a cross-platform solution that ensures a consistent user experience across multiple devices. Flutter's rich widget library enables the creation of an intuitive and visually appealing user interface, facilitating easy navigation and interaction within the application. 
-The backbone of this project is powered by Firebase, a robust and scalable backend solution. The integration with Firebase ensures reliable performance and smooth data synchronization, enhancing the overall user experience.
-AR Home Decor offers two main functionalities to users: Users can browse an extensive gallery of furniture and decor items within the application. By selecting items from the gallery, users can virtually place and arrange them in real-time within their physical environments using augmented reality
-In addition to live furniture placement, AR Home Decor introduces an innovative functionality for object capture. Users can capture objects in their physical surroundings using the device's camera. The captured objects can then be added to the application's gallery for future use. This feature empowers users to personalize their virtual decor options, expanding the range of possibilities and encouraging creativity in home decoration.
-The core innovation of AR Room Decor lies in its implementation of augmented reality. This augmented reality experience allows users to see realistic representations of their selected items within their actual environments.
-In conclusion, AR Room Decor is an innovative software project that harnesses the power of augmented reality, Flutter SDK, and Firebase backend to revolutionize the room decoration process. By seamlessly integrating with the user's camera and gallery, the application empowers users to visualize and experiment with various furniture and decor items within their living spaces. AR Room Decor provides a user-friendly interface, cross-platform compatibility, and a realistic augmented reality experience, making it a valuable tool for room owners, interior designers, and room decor enthusiasts alike.
-"# Smart-Architecture" 
-"# Smart-Architecture" 
-"# Smart-Architecture" 
-"# Smart-Architecture" 
-"# Smart-Architecture" 
-"# Smart-Architecture" 
+
+Smart Architecture is your ultimate companion for interior designing, bringing innovation and convenience to the process of renovating and designing living spaces. Developed with Flutter and Firebase, Smart Architecture offers a comprehensive platform for users to connect with local architects, visualize room renovations in 3D, experiment with furniture in augmented reality, and much more.
+
+## Features
+
+- **Rennovate:** Scan your room and generate a 3D model for renovation ideas.
+- **Augmented Reality:** Try out furniture and decor in your room using AR technology.
+- **Chat Bot Integration:** Interact with a chat bot powered by an LLM to get personalized design suggestions.
+- **Premium Subscription:** Choose from different subscription plans for access to premium features and exclusive content.
+
+## Team Details
+
+The Smart Architecture project was developed by the team TechTitans, consisting of Vitesh, Sharika, Bharath, and Santosh.
+
+## Acknowledgments
+
+We are proud to announce that Smart Architecture was the winning project at the Vivitsu 24 hackathon. Our team received the first prize for our innovative approach to interior design solutions. We would like to express our gratitude to the organizers, mentors, and judges for their support and guidance throughout the event.
+
+## Images
+<div style="display: flex; justify-content: center;align-items: center;">
+    <img src="https://github.com/vxtxsh/Smart-Architecture/assets/146342392/f1277055-de98-4c9e-a0bd-cb3e2f074ce2" alt="Image 2" width="200" style="padding-right: 200px;" />
+  <img src="https://github.com/vxtxsh/Smart-Architecture/assets/146342392/dc255740-ab32-4d04-b15d-ddff85153777" alt="Image 2" width="550" style="padding-right: 200px;" />
+   
+</div>
+
+
